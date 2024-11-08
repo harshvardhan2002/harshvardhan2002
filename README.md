@@ -9,6 +9,10 @@
 
 - 🌱 I’m currently learning **Fullstack web development (more focused towards backend))**
 
+- Some other: [Movie Application Console with DLL (implemented serialization that stores information in given json file)](https://github.com/harshvardhan2002/MovieAppMiniProject)
+
+- other: [Employee Management System (ASP.NET MVC project using Entity Framework Core)](https://github.com/harshvardhan2002/EmployeeMVCWithEFCore)
+
 - 💬 Ask me about **Fullstack web development**
 
 - 📫 How to reach me **harshvardhan200216@gmail.com**
