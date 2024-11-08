@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshvardhan2002" alt="harshvardhan2002" /></a> </p>
 
-- 🔭 I’m currently working as an intern. Some of my projects are- [Inventory Management System](https://github.com/harshvardhan2002/InventoryManagementSystem)
+- 🔭 I’m currently working as an intern. My projects- [Inventory Management System](https://github.com/harshvardhan2002/InventoryManagementSystem)
+
+- Another Project is [Movie Application Console with DLL (implemented serialization that stores information in given json file)](https://github.com/harshvardhan2002/MovieAppMiniProject)
+
+- And [Employee Management System (ASP.NET MVC project using Entity Framework Core)](https://github.com/harshvardhan2002/EmployeeMVCWithEFCore)
 
 - 🌱 I’m currently learning **Fullstack web development (more focused towards backend))**
-
-- Some other: [Movie Application Console with DLL (implemented serialization that stores information in given json file)](https://github.com/harshvardhan2002/MovieAppMiniProject)
-
-- other: [Employee Management System (ASP.NET MVC project using Entity Framework Core)](https://github.com/harshvardhan2002/EmployeeMVCWithEFCore)
 
 - 💬 Ask me about **Fullstack web development**
 
@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/addictedtoiit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="addictedtoiit" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dev-harshvardhan-gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dev-harshvardhan-gupta" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/harshvardhan-gupta-in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harshvardhan-gupta-in/" height="30" width="40" /></a>
 <a href="https://instagram.com/mafiaboss9876" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mafiaboss9876" height="30" width="40" /></a>
 </p>
 
